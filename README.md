@@ -18,3 +18,10 @@ Theme: Shade Sanctuary
 ![Obsidian_RgXorP6Gzh](https://github.com/user-attachments/assets/1179b5c1-685e-4737-b9ab-741295eb6fda)
 
 Theme: ITS
+
+---
+
+### How to install:
+ - Download the snippet(s) and save them to ~/.obsidian/snippets, which is in your Obsidanian folder. This folder can be opened by going to Settings -> Appearance -> Scrollall the way down to "Snippets" and click the folder icon
+ - After downloading, refresh by pressing the "Refresh" icon
+ - Enable snippet(s)
