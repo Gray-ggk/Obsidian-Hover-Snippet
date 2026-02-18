@@ -5,16 +5,16 @@ Simple Obsidian CSS snippets that will:
 
 ---
 
-![Obsidian_ykKAcubaLw](https://github.com/user-attachments/assets/ad6af4a3-bc81-4d79-957a-14b93551b567)
+![Obsidian_srbsCk2a1D](https://github.com/user-attachments/assets/619004c3-1792-4fca-910c-b859195df326)
+
+Theme: Default
+
+
+![Obsidian_iHSeVdOQTe](https://github.com/user-attachments/assets/4b476545-916e-40a8-9777-a81ff112d813)
 
 Theme: Shade Sanctuary
 
 
-![Obsidian_IPIHiBRJZQ](https://github.com/user-attachments/assets/78a41963-a277-4706-b054-f10cd0ea3179)
+![Obsidian_RgXorP6Gzh](https://github.com/user-attachments/assets/1179b5c1-685e-4737-b9ab-741295eb6fda)
 
 Theme: ITS
-
-
-![Obsidian_2drHqBANJW](https://github.com/user-attachments/assets/b6d2fffe-9b74-4cc9-8045-5ebddd83a6aa)
-
-Theme: Baseline
