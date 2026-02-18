@@ -22,6 +22,6 @@ Theme: ITS
 ---
 
 ### How to install:
- - Download the snippet(s) and save them to ~/.obsidian/snippets, which is in your Obsidanian folder. This folder can be opened by going to Settings -> Appearance -> Scrollall the way down to "Snippets" and click the folder icon
+ - Download the snippet(s) and save to ~\.obsidian\snippets, which is in your Obsidian folder. This folder can be opened by going to Settings -> Appearance -> Scroll down to "Snippets" and click the folder icon
  - After downloading, refresh by pressing the "Refresh" icon
  - Enable snippet(s)
