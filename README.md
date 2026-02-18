@@ -1,6 +1,6 @@
 # Obsidian-UI-Tweaks
 Simple Obsidian CSS snippets that will:
-- Expand folder and file titles in size on hover
+- Expand folder and file titles size on hover
 - Add trapezium-shaped colored indicators beside folders
 
 ---
