@@ -1,0 +1,22 @@
+/* FILE EXPLOROR */
+.nav-file-title,
+.nav-folder-title {
+  transform: scale(0.95);
+  transition: transform 0.2s ease-in-out;
+}
+
+.nav-file-title:hover,
+.nav-folder-title:hover {
+  transform: scale(1.005);
+}
+
+/* ICONS */
+.clickable-icon,
+.view-action {
+  transition: transform 0.2s ease-in-out;
+}
+
+.clickable-icon:hover,
+.view-action:hover {
+  transform: scale(1.25); 
+}
