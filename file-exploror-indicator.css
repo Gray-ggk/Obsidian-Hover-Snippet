@@ -1,0 +1,43 @@
+/* LAYOUT */
+.nav-folder {
+    border: 5px solid transparent;
+    margin-bottom: 8px; 
+    transition: border-color 0.2s ease;
+    padding-left: 12px;		
+    	
+}
+
+/* 1st Folder Color (not working)*/
+.nav-files-container > div > .nav-folder:nth-child(1) { border-left-color: #EF4242; }
+
+/* 2nd Folder Color (acts as first folder) */
+.nav-files-container > div > .nav-folder:nth-child(2) { border-left-color: #EF4242; }
+
+/* 3rd Folder Color */
+.nav-files-container > div > .nav-folder:nth-child(3) { border-left-color: #ff9f43; }
+
+/* 4th Folder Color */
+.nav-files-container > div > .nav-folder:nth-child(4) { border-left-color: #53BA48; }
+
+/* 5th Folder Color */
+.nav-files-container > div > .nav-folder:nth-child(5) { border-left-color: #1dd1a1; }
+
+/* 6th Folder Color */
+.nav-files-container > div > .nav-folder:nth-child(6) { border-left-color: #48dbfb; }
+
+
+/* 7th Folder Color */
+.nav-files-container > div > .nav-folder:nth-child(7) { border-left-color: #3F85E4; }
+
+
+/* 8th Folder Color */
+.nav-files-container > div > .nav-folder:nth-child(8) { border-left-color: #8631F0; }
+
+/* 9th Folder Color */
+.nav-files-container > div > .nav-folder:nth-child(9) { border-left-color: #E04BBB; }
+
+
+/* ADJUSTMENTS */
+.nav-folder-title, .nav-file-title {
+    padding-left: 10px !important;
+}
