@@ -2,8 +2,8 @@
 .nav-folder {
     border: 5px solid transparent;
     margin-bottom: 8px; 
-    transition: border-color 0.2s ease;
-    padding-left: 12px;		
+    transition: border-color 0.2s ease;	
+    padding-left: 1px;	
     	
 }
 
@@ -35,9 +35,3 @@
 
 /* 9th Folder Color */
 .nav-files-container > div > .nav-folder:nth-child(9) { border-left-color: #E04BBB; }
-
-
-/* ADJUSTMENTS */
-.nav-folder-title, .nav-file-title {
-    padding-left: 10px !important;
-}
